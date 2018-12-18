@@ -1,0 +1,1368 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-12-17T21:44:41.254-05:00
+  initializedAtString: 2018-12-17T21:36:05.202-05:00
+  log:
+  - commitID: 736da3a8623b4bc3d07f1b3c6c5ac4804bb8d486
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: first commit
+    description: first commit
+    timeString: 2018-12-17T21:37:44.000-05:00
+    commitTimeString: 2018-12-17T21:37:44.000-05:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Joyce\README.md
+      projectPath: ..\..\README.md
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: c19529f2c27dc1d44c89533a3eee549399c0f69b
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: first commit
+    description: first commit
+    timeString: 2018-12-17T21:35:32.000-05:00
+    commitTimeString: 2018-12-17T21:35:32.000-05:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Joyce\README.md
+      projectPath: ..\..\README.md
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: d0211266001159a299c5fa2d8059e0003843dada
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: first commit
+    description: first commit
+    timeString: 2018-12-17T21:34:02.000-05:00
+    commitTimeString: 2018-12-17T21:34:02.000-05:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Joyce\README.md
+      projectPath: ..\..\README.md
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: e6d33c8c9147e528e8aac9e613c89459bc86cce2
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: first commit
+    description: first commit
+    timeString: 2018-12-17T19:31:16.000-05:00
+    commitTimeString: 2018-12-17T19:31:16.000-05:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Joyce\README.md
+      projectPath: ..\..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 0d88aad9203b326eb114f6ce534ed94c45efd122
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: New ftr
+    description: New ftr
+    timeString: 2018-12-12T23:40:24.000-05:00
+    commitTimeString: 2018-12-12T23:40:24.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\gallery.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\gallery.html
+      projectPath: ..\FlowerRoad\gallery.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 54725038188cb603c2fe55f002b747257d5b1dfa
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: New ftr, form
+    description: New ftr, form
+    timeString: 2018-12-12T23:40:03.000-05:00
+    commitTimeString: 2018-12-12T23:40:03.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\appointment.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\appointment.html
+      projectPath: ..\FlowerRoad\appointment.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 76d3b22f6f95835384030994505deac98c9d0b3f
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Edit text
+    description: Edit text
+    timeString: 2018-12-12T23:38:26.000-05:00
+    commitTimeString: 2018-12-12T23:38:26.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\about.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\about.html
+      projectPath: ..\FlowerRoad\about.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: c188bb3927d0d327056faa2979e7b05c6e533584
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Fixed CSS
+    description: Fixed CSS
+    timeString: 2018-12-12T23:36:26.000-05:00
+    commitTimeString: 2018-12-12T23:36:26.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\events.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\events.html
+      projectPath: ..\FlowerRoad\events.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 780036fe448703e9190189bd639c9a4488a05982
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Add spacing after nav
+    description: Add spacing after nav
+    timeString: 2018-12-12T23:34:33.000-05:00
+    commitTimeString: 2018-12-12T23:34:33.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\contact.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\contact.html
+      projectPath: ..\FlowerRoad\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 2e8f825f83f3e6eb042574e440eddf3181e2b0ff
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Update ftr
+    description: Update ftr
+    timeString: 2018-12-12T23:33:36.000-05:00
+    commitTimeString: 2018-12-12T23:33:36.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\about.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\about.html
+      projectPath: ..\FlowerRoad\about.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 56e3cceae21d1fd534bc4be55475b67881b29977
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Cleaned up CSS. Edited submit btn
+    description: Cleaned up CSS. Edited submit btn
+    timeString: 2018-12-12T23:31:25.000-05:00
+    commitTimeString: 2018-12-12T23:31:25.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\style.css
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\style.css
+      projectPath: ..\FlowerRoad\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 42364ce56ffc963cae395856ba39819c3d121b66
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Removing clutter
+    description: Removing clutter
+    timeString: 2018-12-12T20:21:25.000-05:00
+    commitTimeString: 2018-12-12T20:21:25.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\style.css
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\style.css
+      projectPath: ..\FlowerRoad\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: bde8764f4677646360c7d618bd75bc79efa7cd83
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Img add
+    description: Img add
+    timeString: 2018-12-12T07:40:25.000-05:00
+    commitTimeString: 2018-12-12T07:40:25.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\thank-you.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\thank-you.jpg
+      projectPath: ..\FlowerRoad\images\thank-you.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 84909265fb130ebe3578cbbbf6011ff462c8f66d
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Thank you page for contacts
+    description: Thank you page for contacts
+    timeString: 2018-12-12T07:34:56.000-05:00
+    commitTimeString: 2018-12-12T07:34:56.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\thanks.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\thanks.html
+      projectPath: ..\FlowerRoad\thanks.html
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 7710aed940b68ad842b599004034d5b00d2a966f
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Twitter button
+    description: Twitter button
+    timeString: 2018-12-11T01:08:39.000-05:00
+    commitTimeString: 2018-12-11T01:08:39.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\icons\Twitter-Icon.png
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\icons\Twitter-Icon.png
+      projectPath: ..\FlowerRoad\icons\Twitter-Icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: d56ae311eb9935b19960342b549dd5d7bec1b779
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Insta button
+    description: Insta button
+    timeString: 2018-12-11T01:08:12.000-05:00
+    commitTimeString: 2018-12-11T01:08:12.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\icons\Instagram-Icon.png
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\icons\Instagram-Icon.png
+      projectPath: ..\FlowerRoad\icons\Instagram-Icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 859d5813d813002fd2de9b341e90631c317689fa
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Fb icon
+    description: Fb icon
+    timeString: 2018-12-11T01:07:49.000-05:00
+    commitTimeString: 2018-12-11T01:07:49.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\icons\facebook-Icon.png
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\icons\facebook-Icon.png
+      projectPath: ..\FlowerRoad\icons\facebook-Icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 4799a8c877ddea178efea4874ddca09cf40e0721
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Changed carousel to fotorama. Added buttons to footer
+    description: Changed carousel to fotorama. Added buttons to footer
+    timeString: 2018-12-11T01:06:38.000-05:00
+    commitTimeString: 2018-12-11T01:06:38.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\index.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\index.html
+      projectPath: ..\FlowerRoad\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 5967386550a092622aeba44b966cda4f802d745a
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Nav & Footer fixed
+    description: Nav & Footer fixed
+    timeString: 2018-12-05T16:29:38.000-05:00
+    commitTimeString: 2018-12-05T16:29:38.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\contact.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\contact.html
+      projectPath: ..\FlowerRoad\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: d7248d0e176106721fe43f33e31bd622858c58ca
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Nav & Footer
+    description: Nav & Footer
+    timeString: 2018-12-05T16:14:04.000-05:00
+    commitTimeString: 2018-12-05T16:14:04.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\gallery.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\gallery.html
+      projectPath: ..\FlowerRoad\gallery.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: fea19cf30030436fb8d5fbb2714b41b46b2a13fa
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Nav & Footer
+    description: Nav & Footer
+    timeString: 2018-12-05T16:09:21.000-05:00
+    commitTimeString: 2018-12-05T16:09:21.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\about.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\about.html
+      projectPath: ..\FlowerRoad\about.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 97d76001637866ff6ca8aca44d9e7b83f986bc69
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Fixed nav
+    description: Fixed nav
+    timeString: 2018-12-05T16:05:56.000-05:00
+    commitTimeString: 2018-12-05T16:05:56.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\index.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\index.html
+      projectPath: ..\FlowerRoad\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: c4c6f37d3421b2d3f9eb293ca8dd92a63cb5b2b9
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Updated form, Edited footer
+    description: Updated form, Edited footer
+    timeString: 2018-12-05T14:09:34.000-05:00
+    commitTimeString: 2018-12-05T14:09:34.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\appointment.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\appointment.html
+      projectPath: ..\FlowerRoad\appointment.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: de9885e9f44e4e3a9c9efa5a56c5d778a13c15a6
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Reverted footer; Added Social Media column
+    description: Reverted footer; Added Social Media column
+    timeString: 2018-12-05T13:53:20.000-05:00
+    commitTimeString: 2018-12-05T13:53:20.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\index.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\index.html
+      projectPath: ..\FlowerRoad\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: ec40dabdfc69c5f7a41bff4d07ae9fb9cfea0f40
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Navbar-brand changed
+    description: Navbar-brand changed
+    timeString: 2018-12-05T13:52:21.000-05:00
+    commitTimeString: 2018-12-05T13:52:21.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\style.css
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\style.css
+      projectPath: ..\FlowerRoad\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: be2ebfb11460991498922a821097aee5397f396e
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Import Jae's code
+    description: Import Jae's code
+    timeString: 2018-12-05T07:45:42.000-05:00
+    commitTimeString: 2018-12-05T07:45:42.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\events.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\events.html
+      projectPath: ..\FlowerRoad\events.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: db4b8e53ead509a019b92b46a002edbc5d8bbaa7
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Add JS imageToSwap. Changed footer
+    description: Add JS imageToSwap. Changed footer
+    timeString: 2018-12-05T07:38:20.000-05:00
+    commitTimeString: 2018-12-05T07:38:20.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\gallery.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\gallery.html
+      projectPath: ..\FlowerRoad\gallery.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 4440016e47f9ae276cf31d91910654994881bb67
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Add image
+    description: Add image
+    timeString: 2018-12-05T07:30:49.000-05:00
+    commitTimeString: 2018-12-05T07:30:49.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\alitaGraham.png
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\alitaGraham.png
+      projectPath: ..\FlowerRoad\images\alitaGraham.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: a39ca533142e4d5e883574e1a9b4f880e7633777
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Add image
+    description: Add image
+    timeString: 2018-12-05T07:30:11.000-05:00
+    commitTimeString: 2018-12-05T07:30:11.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\danielleCaprese.png
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\danielleCaprese.png
+      projectPath: ..\FlowerRoad\images\danielleCaprese.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 3310f9e917c96bf6b9c6b70acc92b4f035f1fb82
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Initial
+    description: Initial
+    timeString: 2018-12-04T23:02:53.000-05:00
+    commitTimeString: 2018-12-04T23:02:53.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\app.js
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\app.js
+      projectPath: ..\FlowerRoad\app.js
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 7e6d9a29ae6d9ca447ea9ced8ceeaf1491905773
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Edit text
+    description: Edit text
+    timeString: 2018-12-04T22:58:39.000-05:00
+    commitTimeString: 2018-12-04T22:58:39.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\about.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\about.html
+      projectPath: ..\FlowerRoad\about.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 5cd9e219a5175b8547b5ce485d297e2123a4ce70
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Btn CSS
+    description: Btn CSS
+    timeString: 2018-12-04T21:30:24.000-05:00
+    commitTimeString: 2018-12-04T21:30:24.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\style.css
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\style.css
+      projectPath: ..\FlowerRoad\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: be447d5fc83f269b4309fa9a36fdb0c936ec9c2f
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Incorporated Google Maps API. Changed submit
+    description: Incorporated Google Maps API. Changed submit
+    timeString: 2018-12-04T21:23:30.000-05:00
+    commitTimeString: 2018-12-04T21:23:30.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\contact.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\contact.html
+      projectPath: ..\FlowerRoad\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: ac081f6134929f7db3efcd766dcbebd9f89efc59
+    mergeA: 44c4257872231d32990bad1adb137ad9c7704a82
+    mergeB: 7d4781ca0e29d3a9e053401b419204fd6e8a6dde
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Merge branch 'master' of https://github.com/petitchoux/Flower-Road
+    description: Merge branch 'master' of https://github.com/petitchoux/Flower-Road
+    timeString: 2018-12-04T21:21:43.000-05:00
+    commitTimeString: 2018-12-04T21:21:43.000-05:00
+    changes: []
+  - commitID: 44c4257872231d32990bad1adb137ad9c7704a82
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Google Maps API incorporated
+    description: Google Maps API incorporated
+    timeString: 2018-12-04T21:02:10.000-05:00
+    commitTimeString: 2018-12-04T21:02:10.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\contact.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\contact.html
+      projectPath: ..\FlowerRoad\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 01b8cac9254a519b7214a50c744085d1fba795e5
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Updated CSS
+    description: Updated CSS
+    timeString: 2018-12-04T20:46:40.000-05:00
+    commitTimeString: 2018-12-04T20:46:40.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\style.css
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\style.css
+      projectPath: ..\FlowerRoad\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 7d4781ca0e29d3a9e053401b419204fd6e8a6dde
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:07:26.000-05:00
+    commitTimeString: 2018-12-04T01:07:26.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\charisse-kenion-340543-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\charisse-kenion-340543-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\charisse-kenion-340543-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 9dd1325f0f2dc515a6881b26e21b26b3955976f5
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:07:17.000-05:00
+    commitTimeString: 2018-12-04T01:07:17.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\benjaminrobyn-jespersen-438346-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\benjaminrobyn-jespersen-438346-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\benjaminrobyn-jespersen-438346-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 578756f160da82f887127ed87780c5f33ace13c5
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:07:06.000-05:00
+    commitTimeString: 2018-12-04T01:07:06.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\anna-utochkina-343525-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\anna-utochkina-343525-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\anna-utochkina-343525-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 5545357328d46ee48f85d8ed4358b16487dcefb6
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:06:56.000-05:00
+    commitTimeString: 2018-12-04T01:06:56.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\alvin-mahmudov-172232-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\alvin-mahmudov-172232-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\alvin-mahmudov-172232-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 0ace8d8ae9b0597ca26e2d1112c76433705c7daa
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:06:44.000-05:00
+    commitTimeString: 2018-12-04T01:06:44.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\afa-ah-loo-724939-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\afa-ah-loo-724939-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\afa-ah-loo-724939-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 2f0d3cba6412fe3389a785312e5237b185897480
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:05:56.000-05:00
+    commitTimeString: 2018-12-04T01:05:56.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\gades-photography-711066-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gades-photography-711066-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\gades-photography-711066-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: d7f26416c82060a1092ef9f174b37f4db8e88731
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:05:37.000-05:00
+    commitTimeString: 2018-12-04T01:05:37.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\tom-the-photographer-651516-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\tom-the-photographer-651516-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\tom-the-photographer-651516-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: c665bfc4d25eae2fd51feacd0be984f2c2fb611a
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:05:17.000-05:00
+    commitTimeString: 2018-12-04T01:05:17.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\jeremy-wong-weddings-602196-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\jeremy-wong-weddings-602196-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\jeremy-wong-weddings-602196-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 0b44b02e27f395dd0c15ba6123cdfe94b3685df1
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:04:56.000-05:00
+    commitTimeString: 2018-12-04T01:04:56.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\kevin-lanceplaine-674653-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\kevin-lanceplaine-674653-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\kevin-lanceplaine-674653-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 0ae5df5a851fa141d5a9c8dc50050f43a1997dd0
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:04:42.000-05:00
+    commitTimeString: 2018-12-04T01:04:42.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\kevin-lanceplaine-674619-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\kevin-lanceplaine-674619-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\kevin-lanceplaine-674619-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 84401b5ea578b9bec64d257668e13053b3504c87
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Duplicate photo
+    description: Duplicate photo
+    timeString: 2018-12-04T01:04:04.000-05:00
+    commitTimeString: 2018-12-04T01:04:04.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\valerie-elash-623392-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\valerie-elash-623392-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\valerie-elash-623392-unsplash.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: ea349f4459ac538a4966db12b06088df08cc0a83
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: 32062541+petitchoux@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Import images
+    description: Import images
+    timeString: 2018-12-04T01:03:08.000-05:00
+    commitTimeString: 2018-12-04T01:03:08.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\images\about.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\about.jpg
+      projectPath: ..\FlowerRoad\images\about.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\appointment.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\appointment.jpg
+      projectPath: ..\FlowerRoad\images\appointment.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\bg_1.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\bg_1.jpg
+      projectPath: ..\FlowerRoad\images\bg_1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\bg_2.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\bg_2.jpg
+      projectPath: ..\FlowerRoad\images\bg_2.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\bg_3.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\bg_3.jpg
+      projectPath: ..\FlowerRoad\images\bg_3.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\blog-calista.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\blog-calista.jpg
+      projectPath: ..\FlowerRoad\images\blog-calista.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\blog-carina.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\blog-carina.jpg
+      projectPath: ..\FlowerRoad\images\blog-carina.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\blog-cecilia.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\blog-cecilia.jpg
+      projectPath: ..\FlowerRoad\images\blog-cecilia.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\blog-colette.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\blog-colette.jpg
+      projectPath: ..\FlowerRoad\images\blog-colette.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\contact.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\contact.jpg
+      projectPath: ..\FlowerRoad\images\contact.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\events.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\events.jpg
+      projectPath: ..\FlowerRoad\images\events.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_01.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_01.jpg
+      projectPath: ..\FlowerRoad\images\gallery_01.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_02.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_02.jpg
+      projectPath: ..\FlowerRoad\images\gallery_02.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_03.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_03.jpg
+      projectPath: ..\FlowerRoad\images\gallery_03.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_04.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_04.jpg
+      projectPath: ..\FlowerRoad\images\gallery_04.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_05.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_05.jpg
+      projectPath: ..\FlowerRoad\images\gallery_05.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_06.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_06.jpg
+      projectPath: ..\FlowerRoad\images\gallery_06.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_07.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_07.jpg
+      projectPath: ..\FlowerRoad\images\gallery_07.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_08.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_08.jpg
+      projectPath: ..\FlowerRoad\images\gallery_08.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_09.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_09.jpg
+      projectPath: ..\FlowerRoad\images\gallery_09.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gallery_10.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gallery_10.jpg
+      projectPath: ..\FlowerRoad\images\gallery_10.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: ced1da4507d4a5f975e2a8ca8ace8ee316257e29
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Import Jae's Code
+    description: Import Jae's Code
+    timeString: 2018-12-04T00:59:09.000-05:00
+    commitTimeString: 2018-12-04T00:59:09.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\gallery.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\gallery.html
+      projectPath: ..\FlowerRoad\gallery.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 05e388c776b6f9a8ea9aec4392e783b756a32d6a
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Import Jae's code
+    description: Import Jae's code
+    timeString: 2018-12-04T00:58:30.000-05:00
+    commitTimeString: 2018-12-04T00:58:30.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\events.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\events.html
+      projectPath: ..\FlowerRoad\events.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 2f69d2a8bb7def9d644bc5f0f4303e75fda738e8
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Import Jae's code
+    description: Import Jae's code
+    timeString: 2018-12-04T00:57:53.000-05:00
+    commitTimeString: 2018-12-04T00:57:53.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\contact.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\contact.html
+      projectPath: ..\FlowerRoad\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a96695a38553a2f4a32e7dbbfd0960f5dc80a655
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Import Jae's code
+    description: Import Jae's code
+    timeString: 2018-12-04T00:57:11.000-05:00
+    commitTimeString: 2018-12-04T00:57:11.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\appointment.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\appointment.html
+      projectPath: ..\FlowerRoad\appointment.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 6a3f8d26fb48a17e9a8e35c31b50fdd90cd20321
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Fixed brand link
+    description: Fixed brand link
+    timeString: 2018-12-04T00:56:30.000-05:00
+    commitTimeString: 2018-12-04T00:56:30.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\about.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\about.html
+      projectPath: ..\FlowerRoad\about.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: f07d17d3e08f6a6cd6cbf4d77b321e2cce13853f
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Imported Jae's code
+    description: Imported Jae's code
+    timeString: 2018-12-04T00:55:01.000-05:00
+    commitTimeString: 2018-12-04T00:55:01.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\about.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\about.html
+      projectPath: ..\FlowerRoad\about.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: e403c4ad8f1d9568fecdd632a39289130220722f
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Adjusted to new CSS
+    description: Adjusted to new CSS
+    timeString: 2018-12-04T00:51:56.000-05:00
+    commitTimeString: 2018-12-04T00:51:56.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\index.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\index.html
+      projectPath: ..\FlowerRoad\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 01d7edec00f12ca99015b6f61639431de766b7dc
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Removed unneccessary CSS
+    description: Removed unneccessary CSS
+    timeString: 2018-12-04T00:49:10.000-05:00
+    commitTimeString: 2018-12-04T00:49:10.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\style.css
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\style.css
+      projectPath: ..\FlowerRoad\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 43562b7e9e4ec9a134bd16201b30f0c6c72267eb
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Remove dropdown
+    description: Remove dropdown
+    timeString: 2018-12-01T10:26:06.000-05:00
+    commitTimeString: 2018-12-01T10:26:06.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\style.css
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\style.css
+      projectPath: ..\FlowerRoad\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: b2740ba8b09ce76afa49990915dc661f625fb191
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Added carousel
+    description: Added carousel
+    timeString: 2018-11-30T09:17:26.000-05:00
+    commitTimeString: 2018-11-30T09:17:26.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\index.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\index.html
+      projectPath: ..\FlowerRoad\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 80c76d30b0b6ce2c506e12bc51f203d25fb4ad65
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Fixed navbar
+    description: Fixed navbar
+    timeString: 2018-11-30T09:04:55.000-05:00
+    commitTimeString: 2018-11-30T09:04:55.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\about.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\about.html
+      projectPath: ..\FlowerRoad\about.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Desktop\FlowerRoad\appointment.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\appointment.html
+      projectPath: ..\FlowerRoad\appointment.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Desktop\FlowerRoad\blog.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\blog.html
+      projectPath: ..\FlowerRoad\blog.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Desktop\FlowerRoad\contact.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\contact.html
+      projectPath: ..\FlowerRoad\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Desktop\FlowerRoad\events.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\events.html
+      projectPath: ..\FlowerRoad\events.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Desktop\FlowerRoad\gallery.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\gallery.html
+      projectPath: ..\FlowerRoad\gallery.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: e702a9739cb0ed60f640f3a5fb145393fc3e95af
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: Added footer
+    description: Added footer
+    timeString: 2018-11-30T08:49:27.000-05:00
+    commitTimeString: 2018-11-30T08:49:27.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\index.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\index.html
+      projectPath: ..\FlowerRoad\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: ca201971b88267e682bfd80277bda9e642e84862
+    mergeA: 
+    mergeB: 
+    authorName: Joyce Huang
+    authorEmail: joycalation@gmail.com
+    commitEmail: joycalation@gmail.com
+    commitName: Joyce Huang
+    summary: First commit
+    description: First commit
+    timeString: 2018-11-29T23:38:04.000-05:00
+    commitTimeString: 2018-11-29T23:38:04.000-05:00
+    changes:
+    - path: Desktop\FlowerRoad\about.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\about.html
+      projectPath: ..\FlowerRoad\about.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\appointment.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\appointment.html
+      projectPath: ..\FlowerRoad\appointment.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\blog.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\blog.html
+      projectPath: ..\FlowerRoad\blog.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\contact.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\contact.html
+      projectPath: ..\FlowerRoad\contact.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\events.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\events.html
+      projectPath: ..\FlowerRoad\events.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\gallery.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\gallery.html
+      projectPath: ..\FlowerRoad\gallery.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\afa-ah-loo-724939-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\afa-ah-loo-724939-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\afa-ah-loo-724939-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\alvin-mahmudov-172232-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\alvin-mahmudov-172232-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\alvin-mahmudov-172232-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\anna-utochkina-343525-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\anna-utochkina-343525-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\anna-utochkina-343525-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\benjaminrobyn-jespersen-438346-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\benjaminrobyn-jespersen-438346-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\benjaminrobyn-jespersen-438346-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\charisse-kenion-340543-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\charisse-kenion-340543-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\charisse-kenion-340543-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\gades-photography-711066-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\gades-photography-711066-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\gades-photography-711066-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\jeremy-wong-weddings-602196-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\jeremy-wong-weddings-602196-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\jeremy-wong-weddings-602196-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\kevin-lanceplaine-674619-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\kevin-lanceplaine-674619-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\kevin-lanceplaine-674619-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\kevin-lanceplaine-674653-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\kevin-lanceplaine-674653-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\kevin-lanceplaine-674653-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\tom-the-photographer-651516-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\tom-the-photographer-651516-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\tom-the-photographer-651516-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\images\valerie-elash-623392-unsplash.jpg
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\images\valerie-elash-623392-unsplash.jpg
+      projectPath: ..\FlowerRoad\images\valerie-elash-623392-unsplash.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\index.html
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\index.html
+      projectPath: ..\FlowerRoad\index.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Desktop\FlowerRoad\style.css
+      fullPath: C:\Users\Joyce\Desktop\FlowerRoad\style.css
+      projectPath: ..\FlowerRoad\style.css
+      originalPath: 
+      status: 4
+      staged: 0
